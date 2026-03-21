@@ -16,7 +16,6 @@
 - 🌐 **Web Development** — Building websites for local businesses using Framer, Webflow & AI tools
 - 📈 **Online Visibility** — Helping small businesses attract traffic and convert visitors
 - 🎬 **Cinematography** — Shooting & editing reels and videos for brands
-- ✏️ **Realistic Sketching** — Portrait & commission artwork
 
 ---
 
@@ -28,7 +27,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat&logo=davinci-resolve&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
+
+---
+
+### 🗣 Languages
+
+![English](https://img.shields.io/badge/English-Fluent-0055FF?style=flat)
+![Hindi](https://img.shields.io/badge/Hindi-Native-FF9933?style=flat)
 
 ---
 
@@ -46,4 +51,4 @@
 > Open to freelance web projects — especially for small Delhi businesses ready to grow online.
 
 [![Instagram](https://img.shields.io/badge/@cinestrolls-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cinestrolls)
-[![Email](https://img.shields.io/badge/golubhai15872@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:golubhai15872@gmail.com)
+[![Email](https://img.shields.io/badge/golubhai15872@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:golubhai15872@gmail.com)****
