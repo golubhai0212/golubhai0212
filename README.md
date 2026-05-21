@@ -2,6 +2,8 @@
 
 **Web Developer · Cinematographer · Delhi, India**
 
+🟢 **Available for new projects** — [Let's talk](mailto:golubhai15872@gmail.com)
+
 I help small businesses in Delhi build clean, fast websites that actually get found online.  
 Whether it's a landing page or a full business site — I turn ideas into a real digital presence.
 
@@ -12,6 +14,16 @@ Whether it's a landing page or a full business site — I turn ideas into a real
 - 🌐 **Web Development** — Building websites with Framer, Webflow & AI tools
 - 📈 **Online Visibility** — Helping local businesses attract traffic and convert visitors
 - 🎬 **Cinematography** — Shooting & editing reels and brand videos
+
+---
+
+### 💼 What You Get
+
+| Service | What's Included |
+|---|---|
+| 🖥️ Landing Page | Design + copy + mobile-ready + fast load |
+| 🏢 Business Website | Multi-page + SEO basics + contact form |
+| 🎬 Brand Video | Shoot + edit + optimised for reels/ads |
 
 ---
 
@@ -39,3 +51,4 @@ Whether it's a landing page or a full business site — I turn ideas into a real
 
 [![Instagram](https://img.shields.io/badge/@cinestrolls-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cinestrolls)
 [![Email](https://img.shields.io/badge/golubhai15872@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:golubhai15872@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/91XXXXXXXXXX)
