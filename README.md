@@ -1,21 +1,17 @@
-<h1 align="center">Hey, I'm Harshit 👋</h1>
+# Hey, I'm Harshit 👋
 
-<p align="center">
-  <b>Web Developer · Cinematographer · Delhi, India</b>
-</p>
+**Web Developer · Cinematographer · Delhi, India**
 
-<p align="center">
-  I build clean, fast websites that help small businesses get found online. <br/>
-  From landing pages to full business sites — I turn ideas into digital presence.
-</p>
+I help small businesses in Delhi build clean, fast websites that actually get found online.  
+Whether it's a landing page or a full business site — I turn ideas into a real digital presence.
 
 ---
 
 ### 🚀 What I Do
 
-- 🌐 **Web Development** — Building websites for local businesses using Framer, Webflow & AI tools
-- 📈 **Online Visibility** — Helping small businesses attract traffic and convert visitors
-- 🎬 **Cinematography** — Shooting & editing reels and videos for brands
+- 🌐 **Web Development** — Building websites with Framer, Webflow & AI tools
+- 📈 **Online Visibility** — Helping local businesses attract traffic and convert visitors
+- 🎬 **Cinematography** — Shooting & editing reels and brand videos
 
 ---
 
@@ -34,15 +30,6 @@
 
 ![English](https://img.shields.io/badge/English-Fluent-0055FF?style=flat)
 ![Hindi](https://img.shields.io/badge/Hindi-Native-FF9933?style=flat)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Golubhai0212&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golubhai0212&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
